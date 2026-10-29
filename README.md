@@ -18,5 +18,4 @@ Projeto prático desenvolvido durante o Sprint 6 da formação em Analista de QA
 - Análise de logs
 
 ## Formação
-TripleTen — Curso de Analista de QA | Sprint 6# QA-Analise-Logs-SQL-Sprint-6
-Projeto de QA do Sprint 6 da TripleTen, com análise de logs de servidor utilizando Linux e consultas SQL em bases de dados relacionais.
+TripleTen — Curso de Analista de QA | Sprint 6
