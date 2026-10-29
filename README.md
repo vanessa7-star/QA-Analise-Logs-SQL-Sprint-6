@@ -19,3 +19,24 @@ Projeto prático desenvolvido durante o Sprint 6 da formação em Analista de QA
 
 ## Formação
 TripleTen — Curso de Analista de QA | Sprint 6
+
+## Resultados do projeto
+
+- Análise de logs de servidor para investigar respostas HTTP 400 e 500.
+- Utilização de comandos Linux para localizar, filtrar e analisar informações nos logs.
+- Elaboração de consultas SQL para extrair, agrupar e analisar dados de bases de dados relacionais.
+- Organização das atividades e consultas no documento do projeto, disponível neste repositório.
+
+## Competências desenvolvidas
+
+- Investigação de erros a partir de logs de servidor.
+- Utilização dos comandos `grep`, `wc`, `head` e `tail` no terminal Linux.
+- Construção de consultas SQL utilizando `SELECT`, `COUNT`, `GROUP BY`, `HAVING` e `INNER JOIN`.
+- Aplicação de `CASE WHEN` para classificação de dados.
+- Interpretação de resultados e análise de informações para apoiar a identificação de problemas.
+
+## Possíveis melhorias
+
+- Acrescentar exemplos comentados de consultas SQL realizadas.
+- Organizar exemplos de comandos Linux e respetivos resultados.
+- Documentar de forma mais detalhada o processo de investigação dos erros HTTP.
